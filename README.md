@@ -18,9 +18,13 @@ Stocks in 2017 performed better than stocks in 2018.
   - 0.273 vs. 0.289 in 2017
   - 0.285 vs. 0.293 in 2018
  
+2017 original code: 
 ![2017 original](https://github.com/emariecovey/stock-analysis/blob/main/Stock_analysis_2017.png)
+2018 original code:
 ![2018 original](https://github.com/emariecovey/stock-analysis/blob/main/Stock_analysis_2018.png)
+2017 refractored code:
 ![2017 refractored](https://github.com/emariecovey/stock-analysis/blob/main/VBA_Challenge_2017.png)
+2018 refractored code:
 ![2018 refractored](https://github.com/emariecovey/stock-analysis/blob/main/VBA_Challenge_2018.png)
 
 ## Summary
