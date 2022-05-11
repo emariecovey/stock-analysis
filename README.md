@@ -1,7 +1,7 @@
 # Stock Analysis
 
 ## Overview of the Project
-This project is for Steve, who is analyzing 12 green energy stocks' performance to help his parents diversify their investment portfolio. Stock data is from 2017 and 2018 and includes tickers, dates, prices of stocks throughout the day, and volume. Code in the green_stocks.xlsm file is the original code, and code in the VBA_Challenge.xlsm code is refractored. 
+This project is for Steve, who is analyzing 12 green energy stocks' performance to help his parents diversify their investment portfolio. Stock data is from 2017 and 2018 and includes tickers, dates, prices of stocks throughout the day, and volume. The code was originally written for the analysis, and a second code was refractored to see if it could run more efficiently. Code in the green_stocks.xlsm file is the original code, and code in the VBA_Challenge.xlsm code is refractored. 
 
 ## Results
 ### 2017 vs 2018 Stock performance 
@@ -17,6 +17,7 @@ Stocks in 2017 performed better than stocks in 2018.
 - Original code ran faster than the refractored code:
   - 0.273 vs. 0.289 in 2017
   - 0.285 vs. 0.293 in 2018
+ 
 ![2017 original](https://github.com/emariecovey/stock-analysis/blob/main/Stock_analysis_2017.png)
 ![2018 original](https://github.com/emariecovey/stock-analysis/blob/main/Stock_analysis_2018.png)
 ![2017 refractored](https://github.com/emariecovey/stock-analysis/blob/main/VBA_Challenge_2017.png)
@@ -31,5 +32,4 @@ Stocks in 2017 performed better than stocks in 2018.
 - Disadvantages:
   - Code could become "broken" if too many changes are made and errors not corrected
   - Code may not actually run faster or be more efficient, depending on the original code and how it is refractored
-  - In this example, the refractored VBA code did not actually run more quickly. 
-  - If we add to the number of stocks in the array, we would need to add to the code where we declared the array 
+  - In this example, the refractored VBA code did not actually run more quickly. Also, If we add to the number of stocks in the array, we would need to add to the code where we declared the array 
